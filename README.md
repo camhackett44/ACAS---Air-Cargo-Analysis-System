@@ -57,8 +57,9 @@ Additional mapping and enrichment is performed through a custom `AIRCRAFT_VARIAN
 
 ### 🍎 macOS / Linux Users
 
-1. Open Terminal in this project folder  
-2. Run the following:
+1. Download the repo as a ZIP and extract it  
+2. Open Terminal in this project folder  
+3. Run the following:
 ```bash
 chmod +x setup.sh
 ./setup.sh
