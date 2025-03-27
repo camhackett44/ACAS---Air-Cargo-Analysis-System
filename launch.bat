@@ -31,12 +31,14 @@ pip install -r requirements.txt
 echo 🏗️ Building local database from CSVs...
 python reload_db.py
 
-:: Launch dashboard in background
+:: Launch Streamlit server (headless)
 echo 🚀 Launching Streamlit dashboard...
-start /B python -m streamlit run dashboard.py
+start /B python -m streamlit run dashboard.py --server.headless true --server.port 8501
 
-:: Wait and open in browser
-timeout /t 5 >nul
+:: Wait longer to allow Streamlit server to initialize
+timeout /t 10 >nul
+
+:: Open browser
 start http://localhost:8501
 
 pause
