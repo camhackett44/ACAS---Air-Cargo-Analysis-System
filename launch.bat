@@ -24,14 +24,19 @@ IF ERRORLEVEL 1 (
 
 :: Install required packages
 echo 📦 Installing Python dependencies...
+python -m pip install --upgrade pip
 pip install -r requirements.txt
 
 :: Build database
 echo 🏗️ Building local database from CSVs...
 python reload_db.py
 
-:: Launch dashboard
+:: Launch dashboard in background
 echo 🚀 Launching Streamlit dashboard...
-python -m streamlit run dashboard.py --server.headless false
+start /B python -m streamlit run dashboard.py
+
+:: Wait and open in browser
+timeout /t 5 >nul
+start http://localhost:8501
 
 pause
