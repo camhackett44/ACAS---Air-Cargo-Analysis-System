@@ -32,6 +32,6 @@ python reload_db.py
 
 :: Launch dashboard
 echo 🚀 Launching Streamlit dashboard...
-python -m streamlit run dashboard.py
+python -m streamlit run dashboard.py --server.headless false
 
 pause
