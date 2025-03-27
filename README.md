@@ -1,4 +1,4 @@
-# 📦 Cargo Route Profitability & Demand Analysis Dashboard
+# 📦 Air Cargo Profitability & Demand Analysis Dashboard
 
 Welcome to the **Cargo Route Profitability & Demand Analysis** project — an interactive analytics dashboard built with **Python**, **Pandas**, and **Streamlit**, designed to provide deep insights into global air cargo traffic based on U.S. DOT **T-100 Segment Data**.
 
