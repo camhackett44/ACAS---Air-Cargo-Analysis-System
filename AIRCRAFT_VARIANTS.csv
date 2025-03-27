@@ -1,0 +1,299 @@
+AIRCRAFT_TYPE_CODE,UNIQUE_CARRIER_NAME,AIRLINE_NAME,AIRLINE_GROUP,AIRCRAFT_VARIANT,AIRCRAFT_MODEL,AIRCRAFT_MANUFACTURER
+626,ABSA-Aerolinhas Brasileiras,ABSA Cargo,LATAM Airlines Group,Boeing 767-300F,Boeing 767,Boeing
+625,ABX Air Inc,ABX Air,DHL Aviation,Boeing 767-200BDSF,Boeing 767,Boeing
+626,ABX Air Inc,ABX Air,DHL Aviation,Boeing 767-300BDSF,Boeing 767,Boeing
+696,Aeroflot Russian Airlines,Aeroflot Cargo,Aeroflot,Airbus A330-200,Airbus A330,Airbus
+687,Aeroflot Russian Airlines,Aeroflot Cargo,Aeroflot,Airbus A330-300,Airbus A330,Airbus
+359,Aeroflot Russian Airlines,Aeroflot Cargo,Aeroflot,Airbus A350-900,Airbus A350,Airbus
+637,Aeroflot Russian Airlines,Aeroflot Cargo,Aeroflot,Boeing 777-300ER,Boeing 777,Boeing
+683,Aerologic GmbH,AeroLogic,DHL Aviation,Boeing 777-F,Boeing 777,Boeing
+690,Aerounion Aerotransporte de Carga Union SA de CV,AeroUnion,Avianca Group,Airbus A300-200BF,Airbus A300,Airbus
+691,Aerounion Aerotransporte de Carga Union SA de CV,AeroUnion,Avianca Group,Airbus A300-600RF,Airbus A300,Airbus
+625,Aerounion Aerotransporte de Carga Union SA de CV,AeroUnion,Avianca Group,Boeing 767-200BDSF,Boeing 767,Boeing
+819,Air Atlanta Icelandic,Air Atlanta Icelandic,Air Atlanta Icelandic,Boeing 747-400F,Boeing 747,Boeing
+820,Air Atlanta Icelandic,Air Atlanta Icelandic,Air Atlanta Icelandic,Boeing 747-400F,Boeing 747,Boeing
+724,Air Canada,Air Canada Cargo,Air Canada,Airbus A220-300,Airbus A220,Airbus
+698,Air Canada,Air Canada Cargo,Air Canada,Airbus A319-100,Airbus A319,Airbus
+694,Air Canada,Air Canada Cargo,Air Canada,Airbus A320-200,Airbus A320,Airbus
+699,Air Canada,Air Canada Cargo,Air Canada,Airbus A321-200,Airbus A321,Airbus
+721,Air Canada,Air Canada Cargo,Air Canada,Airbus A321-200neo,Airbus A321,Airbus
+696,Air Canada,Air Canada Cargo,Air Canada,Airbus A330-300,Airbus A330,Airbus
+614,Air Canada,Air Canada Cargo,Air Canada,Boeing 737-MAX8,Boeing 737,Boeing
+625,Air Canada,Air Canada Cargo,Air Canada,Boeing 767-200,Boeing 767,Boeing
+626,Air Canada,Air Canada Cargo,Air Canada,Boeing 767-300BDSF,Boeing 767,Boeing
+627,Air Canada,Air Canada Cargo,Air Canada,Boeing 777-200LR,Boeing 777,Boeing
+637,Air Canada,Air Canada Cargo,Air Canada,Boeing 777-300ER,Boeing 777,Boeing
+887,Air Canada,Air Canada Cargo,Air Canada,Boeing 787-8,Boeing 787,Boeing
+889,Air Canada,Air Canada Cargo,Air Canada,Boeing 787-9,Boeing 787,Boeing
+678,Air Canada,Air Canada Cargo,Air Canada,Embraer E190,Embraer E190,Embraer
+696,Air China,Air China Cargo,Air China Group,Airbus A330-200P2F,Airbus A330,Airbus
+359,Air China,Air China Cargo,Air China Group,Airbus A350-900,Airbus A350,Airbus
+819,Air China,Air China Cargo,Air China Group,Boeing 747-400F,Boeing 747,Boeing
+821,Air China,Air China Cargo,Air China Group,Boeing 747-8i,Boeing 747,Boeing
+637,Air China,Air China Cargo,Air China Group,Boeing 777-300ER,Boeing 777,Boeing
+627,Air China,Air China Cargo,Air China Group,Boeing 777-F,Boeing 777,Boeing
+889,Air China,Air China Cargo,Air China Group,Boeing 787-9,Boeing 787,Boeing
+694,Compagnie Natl Air France,Air France Cargo,Air France-KLM,Airbus A320-200,Airbus A320,Airbus
+696,Compagnie Natl Air France,Air France Cargo,Air France-KLM,Airbus A330-200,Airbus A330,Airbus
+873,Compagnie Natl Air France,Air France Cargo,Air France-KLM,Airbus A340-200,Airbus A340,Airbus
+359,Compagnie Natl Air France,Air France Cargo,Air France-KLM,Airbus A350-900,Airbus A350,Airbus
+882,Compagnie Natl Air France,Air France Cargo,Air France-KLM,Airbus A380-800,Airbus A380,Airbus
+820,Compagnie Natl Air France,Air France Cargo,Air France-KLM,Boeing 747-400BCF,Boeing 747,Boeing
+627,Compagnie Natl Air France,Air France Cargo,Air France-KLM,Boeing 777-200ER,Boeing 777,Boeing
+637,Compagnie Natl Air France,Air France Cargo,Air France-KLM,Boeing 777-300ER,Boeing 777,Boeing
+683,Compagnie Natl Air France,Air France Cargo,Air France-KLM,Boeing 777-F,Boeing 777,Boeing
+889,Compagnie Natl Air France,Air France Cargo,Air France-KLM,Boeing 787-9,Boeing 787,Boeing
+820,AirBridgeCargo Airlines Limited,AirBridgeCargo,Volga-Dnepr Group,Boeing 747-400ERF,Boeing 747,Boeing
+821,AirBridgeCargo Airlines Limited,AirBridgeCargo,Volga-Dnepr Group,Boeing 747-8F,Boeing 747,Boeing
+698,Alaska Airlines Inc.,Alaska Air Cargo,Alaska Air Group,Airbus A319-100,Airbus A319,Airbus
+694,Alaska Airlines Inc.,Alaska Air Cargo,Alaska Air Group,Airbus A320-200,Airbus A320,Airbus
+721,Alaska Airlines Inc.,Alaska Air Cargo,Alaska Air Group,Airbus A321-200neo,Airbus A321,Airbus
+617,Alaska Airlines Inc.,Alaska Air Cargo,Alaska Air Group,Boeing 737-400SF,Boeing 737,Boeing
+612,Alaska Airlines Inc.,Alaska Air Cargo,Alaska Air Group,Boeing 737-700BDSF,Boeing 737,Boeing
+614,Alaska Airlines Inc.,Alaska Air Cargo,Alaska Air Group,Boeing 737-800BCF,Boeing 737,Boeing
+634,Alaska Airlines Inc.,Alaska Air Cargo,Alaska Air Group,Boeing 737-900,Boeing 737,Boeing
+888,Alaska Airlines Inc.,Alaska Air Cargo,Alaska Air Group,Boeing 737-900ER,Boeing 737,Boeing
+838,Alaska Airlines Inc.,Alaska Air Cargo,Alaska Air Group,Boeing 737-MAX8,Boeing 737,Boeing
+839,Alaska Airlines Inc.,Alaska Air Cargo,Alaska Air Group,Boeing 737-MAX9,Boeing 737,Boeing
+619,Aloha Air Cargo,Aloha Air Cargo,Northern Air Services,Boeing 737-300SF,Boeing 737,Boeing
+617,Aloha Air Cargo,Aloha Air Cargo,Northern Air Services,Boeing 737-400SF,Boeing 737,Boeing
+715,Amerijet International,Amerijet,Amerijet International,Boeing 727-200F,Boeing 727,Boeing
+622,Amerijet International,Amerijet,DHL Aviation,Boeing 757-200PCF,Boeing 757,Boeing
+625,Amerijet International,Amerijet,Amerijet International,Boeing 767-200BDSF,Boeing 767,Boeing
+626,Amerijet International,Amerijet,DHL Aviation,Boeing 767-300BDSF,Boeing 767,Boeing
+882,All Nippon Airways Co.,ANA Cargo,ANA Holdings,Airbus A380-800,Airbus A380,Airbus
+626,All Nippon Airways Co.,ANA Cargo,ANA Holdings,Boeing 767-300BCF,Boeing 767,Boeing
+627,All Nippon Airways Co.,ANA Cargo,ANA Holdings,Boeing 777-200ER,Boeing 777,Boeing
+637,All Nippon Airways Co.,ANA Cargo,ANA Holdings,Boeing 777-300ER,Boeing 777,Boeing
+837,All Nippon Airways Co.,ANA Cargo,ANA Holdings,Boeing 787-10,Boeing 787,Boeing
+887,All Nippon Airways Co.,ANA Cargo,ANA Holdings,Boeing 787-8,Boeing 787,Boeing
+889,All Nippon Airways Co.,ANA Cargo,ANA Holdings,Boeing 787-9,Boeing 787,Boeing
+880,Antonov Company,Antonov Airlines,Antonov Company,Antonov An-124F,Antonov An-124,Antonov
+890,Antonov Company,Antonov Airlines,Antonov Company,Antonov An-225F,Antonov An-225,Antonov
+694,Asiana Airlines Inc.,Asiana Cargo,Kumho Asiana Group,Airbus A320-200,Airbus A320,Airbus
+699,Asiana Airlines Inc.,Asiana Cargo,Kumho Asiana Group,Airbus A321-200,Airbus A321,Airbus
+721,Asiana Airlines Inc.,Asiana Cargo,Kumho Asiana Group,Airbus A321-200neo,Airbus A321,Airbus
+687,Asiana Airlines Inc.,Asiana Cargo,Kumho Asiana Group,Airbus A330-300,Airbus A330,Airbus
+359,Asiana Airlines Inc.,Asiana Cargo,Kumho Asiana Group,Airbus A350-900,Airbus A350,Airbus
+882,Asiana Airlines Inc.,Asiana Cargo,Kumho Asiana Group,Airbus A380-800,Airbus A380,Airbus
+820,Asiana Airlines Inc.,Asiana Cargo,Kumho Asiana Group,Boeing 747-400F,Boeing 747,Boeing
+626,Asiana Airlines Inc.,Asiana Cargo,Kumho Asiana Group,Boeing 767-300F,Boeing 767,Boeing
+627,Asiana Airlines Inc.,Asiana Cargo,Kumho Asiana Group,Boeing 777-200ER,Boeing 777,Boeing
+622,Air Transport International,ATI Cargo,DHL Aviation,Boeing 757-200CB,Boeing 757,Boeing
+625,Air Transport International,ATI Cargo,Amazon Prime Air,Boeing 767-200BDSF,Boeing 767,Boeing
+626,Air Transport International,ATI Cargo,Amazon Prime Air,Boeing 767-300BDSF,Boeing 767,Boeing
+614,Atlas Air Inc.,Atlas Air,Amazon Prime Air,Boeing 737-800BCF,Boeing 737,Boeing
+819,Atlas Air Inc.,Atlas Air,Atlas Air Worldwide Holdings,Boeing 747-400F,Boeing 747,Boeing
+821,Atlas Air Inc.,Atlas Air,Atlas Air Worldwide Holdings,Boeing 747-8F,Boeing 747,Boeing
+625,Atlas Air Inc.,Atlas Air,Amazon Prime Air,Boeing 767-200BDSF,Boeing 767,Boeing
+626,Atlas Air Inc.,Atlas Air,Amazon Prime Air,Boeing 767-300BCF,Boeing 767,Boeing
+627,Atlas Air Inc.,Atlas Air,DHL Aviation,Boeing 777-F,Boeing 777,Boeing
+696,Transportes Aereos Mercantiles Panamericanos S.A,Avianca Cargo,Avianca Group,Airbus A330-200F,Airbus A330,Airbus
+715,Cargojet Airways Ltd.,Cargojet,Cargojet Inc.,Boeing 727-200F,Boeing 727,Boeing
+622,Cargojet Airways Ltd.,Cargojet,DHL Aviation,Boeing 757-200PCF,Boeing 757,Boeing
+625,Cargojet Airways Ltd.,Cargojet,Cargojet Inc.,Boeing 767-200BDSF,Boeing 767,Boeing
+626,Cargojet Airways Ltd.,Cargojet,Amazon Prime Air,Boeing 767-300BDSF,Boeing 767,Boeing
+820,Cargologicair Limited,CargoLogicAir,Volga-Dnepr Group,Boeing 747-400ERF,Boeing 747,Boeing
+821,Cargologicair Limited,CargoLogicAir,Volga-Dnepr Group,Boeing 747-8F,Boeing 747,Boeing
+820,Cargolux Airlines International S.A,Cargolux,Cargolux,Boeing 747-400ERF,Boeing 747,Boeing
+820,Cargolux Italia SpA,Cargolux Italia,Cargolux,Boeing 747-400F,Boeing 747,Boeing
+836,Cathay Pacific Airways Ltd.,Cathay Pacific Cargo,Swire Group (Cathay Pacific),Airbus A350-1000,Airbus A350,Airbus
+359,Cathay Pacific Airways Ltd.,Cathay Pacific Cargo,Swire Group (Cathay Pacific),Airbus A350-900,Airbus A350,Airbus
+820,Cathay Pacific Airways Ltd.,Cathay Pacific Cargo,Swire Group (Cathay Pacific),Boeing 747-400ERF,Boeing 747,Boeing
+821,Cathay Pacific Airways Ltd.,Cathay Pacific Cargo,Swire Group (Cathay Pacific),Boeing 747-8F,Boeing 747,Boeing
+637,Cathay Pacific Airways Ltd.,Cathay Pacific Cargo,Swire Group (Cathay Pacific),Boeing 777-300ER,Boeing 777,Boeing
+818,Challenge Airlines (BE) S.A.,Challenge Airlines,Challenge Group,Boeing 747-400ERF,Boeing 747,Boeing
+721,China Airlines Ltd.,China Airlines Cargo,China Airlines Group,Airbus A321-200neo,Airbus A321,Airbus
+873,China Airlines Ltd.,China Airlines Cargo,China Airlines Group,Airbus A340-200,Airbus A340,Airbus
+836,China Airlines Ltd.,China Airlines Cargo,China Airlines Group,Airbus A350-1000,Airbus A350,Airbus
+614,China Airlines Ltd.,China Airlines Cargo,China Airlines Group,Boeing 737-800,Boeing 737,Boeing
+820,China Airlines Ltd.,China Airlines Cargo,China Airlines Group,Boeing 747-400F,Boeing 747,Boeing
+637,China Airlines Ltd.,China Airlines Cargo,China Airlines Group,Boeing 777-300ER,Boeing 777,Boeing
+683,China Airlines Ltd.,China Airlines Cargo,China Airlines Group,Boeing 777-F,Boeing 777,Boeing
+819,China Cargo Airline,China Cargo Airlines,China Eastern Air Holding Company,Boeing 747-400ERF,Boeing 747,Boeing
+683,China Cargo Airline,China Cargo Airlines,China Eastern Air Holding Company,Boeing 777-F,Boeing 777,Boeing
+687,China Southern Airlines,China Southern Cargo,China Southern Air Holding,Airbus A330-300,Airbus A330,Airbus
+882,China Southern Airlines,China Southern Cargo,China Southern Air Holding,Airbus A380-800,Airbus A380,Airbus
+820,China Southern Airlines,China Southern Cargo,China Southern Air Holding,Boeing 747-400F,Boeing 747,Boeing
+637,China Southern Airlines,China Southern Cargo,China Southern Air Holding,Boeing 777-300ER,Boeing 777,Boeing
+617,DHL Aero Expresso,DHL Aero Expreso,DHL Aviation,Boeing 737-400SF,Boeing 737,Boeing
+622,DHL Aero Expresso,DHL Aero Expreso,DHL Aviation,Boeing 757-200PCF,Boeing 757,Boeing
+626,DHL Aero Expresso,DHL Aero Expreso,DHL Aviation,Boeing 767-300BCF,Boeing 767,Boeing
+620,El Al Israel Airlines Ltd.,El Al Cargo,El Al Israel Airlines,Boeing 737-200,Boeing 737,Boeing
+819,El Al Israel Airlines Ltd.,El Al Cargo,El Al Israel Airlines,Boeing 747-400,Boeing 747,Boeing
+820,El Al Israel Airlines Ltd.,El Al Cargo,El Al Israel Airlines,Boeing 747-400,Boeing 747,Boeing
+626,El Al Israel Airlines Ltd.,El Al Cargo,El Al Israel Airlines,Boeing 767-300ER,Boeing 767,Boeing
+627,El Al Israel Airlines Ltd.,El Al Cargo,El Al Israel Airlines,Boeing 777-200ER,Boeing 777,Boeing
+887,El Al Israel Airlines Ltd.,El Al Cargo,El Al Israel Airlines,Boeing 787-8,Boeing 787,Boeing
+889,El Al Israel Airlines Ltd.,El Al Cargo,El Al Israel Airlines,Boeing 787-9,Boeing 787,Boeing
+698,Emirates,Emirates SkyCargo,The Emirates Group,Airbus A319-100,Airbus A319,Airbus
+882,Emirates,Emirates SkyCargo,The Emirates Group,Airbus A380-800,Airbus A380,Airbus
+880,Emirates,Emirates SkyCargo,The Emirates Group,Antonov An-124F,Antonov An-124,Antonov
+819,Emirates,Emirates SkyCargo,The Emirates Group,Boeing 747-400F,Boeing 747,Boeing
+820,Emirates,Emirates SkyCargo,The Emirates Group,Boeing 747-400F,Boeing 747,Boeing
+637,Emirates,Emirates SkyCargo,The Emirates Group,Boeing 777-300ER,Boeing 777,Boeing
+627,Emirates,Emirates SkyCargo,The Emirates Group,Boeing 777-F,Boeing 777,Boeing
+359,Ethiopian Airlines,Ethiopian Cargo,Ethiopian Airlines Group,Airbus A350-900,Airbus A350,Airbus
+888,Ethiopian Airlines,Ethiopian Cargo,Ethiopian Airlines Group,Boeing 737-900ER,Boeing 737,Boeing
+637,Ethiopian Airlines,Ethiopian Cargo,Ethiopian Airlines Group,Boeing 777-300ER,Boeing 777,Boeing
+627,Ethiopian Airlines,Ethiopian Cargo,Ethiopian Airlines Group,Boeing 777-F,Boeing 777,Boeing
+887,Ethiopian Airlines,Ethiopian Cargo,Ethiopian Airlines Group,Boeing 787-8,Boeing 787,Boeing
+889,Ethiopian Airlines,Ethiopian Cargo,Ethiopian Airlines Group,Boeing 787-9,Boeing 787,Boeing
+836,Etihad Airways,Etihad Cargo,Etihad Airways,Airbus A350-1000,Airbus A350,Airbus
+882,Etihad Airways,Etihad Cargo,Etihad Airways,Airbus A380-800,Airbus A380,Airbus
+637,Etihad Airways,Etihad Cargo,Etihad Airways,Boeing 777-300ER,Boeing 777,Boeing
+627,Etihad Airways,Etihad Cargo,Etihad Airways,Boeing 777-F,Boeing 777,Boeing
+683,Etihad Airways,Etihad Cargo,Etihad Airways,Boeing 777-F,Boeing 777,Boeing
+889,Etihad Airways,Etihad Cargo,Etihad Airways,Boeing 787-9,Boeing 787,Boeing
+690,European Air Transport Leipzig GmbH,European Air Transport,DHL Aviation,Airbus A300-200BF,Airbus A300,Airbus
+838,Eva Airways Corporation,EVA Air Cargo,Evergreen Group (EVA Air),Boeing 737-MAX8,Boeing 737,Boeing
+820,Eva Airways Corporation,EVA Air Cargo,Evergreen Group (EVA Air),Boeing 747-400BDSF,Boeing 747,Boeing
+627,Eva Airways Corporation,EVA Air Cargo,Evergreen Group (EVA Air),Boeing 777-F,Boeing 777,Boeing
+837,Eva Airways Corporation,EVA Air Cargo,Evergreen Group (EVA Air),Boeing 787-10,Boeing 787,Boeing
+887,Eva Airways Corporation,EVA Air Cargo,Evergreen Group (EVA Air),Boeing 787-8,Boeing 787,Boeing
+889,Eva Airways Corporation,EVA Air Cargo,Evergreen Group (EVA Air),Boeing 787-9,Boeing 787,Boeing
+691,Federal Express Corporation,FedEx Express,FedEx,Airbus A300-600RF,Airbus A300,Airbus
+692,Federal Express Corporation,FedEx Express,FedEx,Airbus A310-300F,Airbus A310,Airbus
+110,Federal Express Corporation,FedEx Express,FedEx,ATR 42/72-600F,ATR 42/72,ATR
+622,Federal Express Corporation,FedEx Express,FedEx,Boeing 757-200SF,Boeing 757,Boeing
+626,Federal Express Corporation,FedEx Express,FedEx,Boeing 767-300F,Boeing 767,Boeing
+683,Federal Express Corporation,FedEx Express,FedEx,Boeing 777-F,Boeing 777,Boeing
+416,Federal Express Corporation,FedEx Express,FedEx,Cessna 208B(F),Cessna Grand Caravan,Cessna
+730,Federal Express Corporation,FedEx Express,FedEx,McDonnell Douglas DC-10-10F,McDonnell Douglas DC-10,McDonnell Douglas
+732,Federal Express Corporation,FedEx Express,FedEx,McDonnell Douglas DC-10-30F,McDonnell Douglas DC-10,McDonnell Douglas
+740,Federal Express Corporation,FedEx Express,FedEx,McDonnell Douglas MD-11F,McDonnell Douglas MD-11,McDonnell Douglas
+721,Hawaiian Airlines Inc.,Hawaiian Airlines,Alaska Air Group,Airbus A321-200neo,Airbus A321,Airbus
+696,Hawaiian Airlines Inc.,Hawaiian Airlines,Amazon Prime Air,Airbus A330-300P2F,Airbus A330,Airbus
+608,Hawaiian Airlines Inc.,Hawaiian Airlines,Alaska Air Group,Boeing 717-200,Boeing 717,Boeing
+626,Hawaiian Airlines Inc.,Hawaiian Airlines,Alaska Air Group,Boeing 767-300ER,Boeing 767,Boeing
+889,Hawaiian Airlines Inc.,Hawaiian Airlines,Alaska Air Group,Boeing 787-9,Boeing 787,Boeing
+838,Icelandair,Icelandair Cargo,Icelandair Group,Boeing 737-MAX8,Boeing 737,Boeing
+634,Icelandair,Icelandair Cargo,Icelandair Group,Boeing 737-MAX9,Boeing 737,Boeing
+622,Icelandair,Icelandair Cargo,Icelandair Group,Boeing 757-200PF,Boeing 757,Boeing
+623,Icelandair,Icelandair Cargo,Icelandair Group,Boeing 757-300,Boeing 757,Boeing
+626,Icelandair,Icelandair Cargo,Icelandair Group,Boeing 767-300BCF,Boeing 767,Boeing
+819,Kalitta Air LLC,Kalitta Air,Kalitta Air,Boeing 747-400BCF,Boeing 747,Boeing
+626,Kalitta Air LLC,Kalitta Air,DHL Aviation,Boeing 767-300BDSF,Boeing 767,Boeing
+683,Kalitta Air LLC,Kalitta Air,DHL Aviation,Boeing 777-F,Boeing 777,Boeing
+715,Kalitta Charters II,Kalitta Charters II,Kalitta Air,Boeing 727-200F,Boeing 727,Boeing
+619,Kalitta Charters II,Kalitta Charters II,DHL Aviation,Boeing 737-300SF,Boeing 737,Boeing
+617,Kalitta Charters II,Kalitta Charters II,DHL Aviation,Boeing 737-400SF,Boeing 737,Boeing
+614,Kalitta Charters II,Kalitta Charters II,DHL Aviation,Boeing 737-800BDSF,Boeing 737,Boeing
+635,Kalitta Charters II,Kalitta Charters II,Kalitta Air,McDonnell Douglas DC-9-15F,McDonnell Douglas DC-9,McDonnell Douglas
+640,Kalitta Charters II,Kalitta Charters II,Kalitta Air,McDonnell Douglas DC-9-30F,McDonnell Douglas DC-9,McDonnell Douglas
+696,Klm Royal Dutch Airlines,KLM Cargo,Air France-KLM,Airbus A330-200,Airbus A330,Airbus
+687,Klm Royal Dutch Airlines,KLM Cargo,Air France-KLM,Airbus A330-300,Airbus A330,Airbus
+819,Klm Royal Dutch Airlines,KLM Cargo,Air France-KLM,Boeing 747-400ERF,Boeing 747,Boeing
+627,Klm Royal Dutch Airlines,KLM Cargo,Air France-KLM,Boeing 777-200ER,Boeing 777,Boeing
+637,Klm Royal Dutch Airlines,KLM Cargo,Air France-KLM,Boeing 777-300ER,Boeing 777,Boeing
+837,Klm Royal Dutch Airlines,KLM Cargo,Air France-KLM,Boeing 787-10,Boeing 787,Boeing
+889,Klm Royal Dutch Airlines,KLM Cargo,Air France-KLM,Boeing 787-9,Boeing 787,Boeing
+724,Korean Air Lines Co. Ltd.,Korean Air Cargo,Hanjin Group (Korean Air),Airbus A220-300,Airbus A220,Airbus
+696,Korean Air Lines Co. Ltd.,Korean Air Cargo,Hanjin Group (Korean Air),Airbus A330-200,Airbus A330,Airbus
+882,Korean Air Lines Co. Ltd.,Korean Air Cargo,Hanjin Group (Korean Air),Airbus A380-800,Airbus A380,Airbus
+612,Korean Air Lines Co. Ltd.,Korean Air Cargo,Hanjin Group (Korean Air),Boeing 737-700,Boeing 737,Boeing
+614,Korean Air Lines Co. Ltd.,Korean Air Cargo,Hanjin Group (Korean Air),Boeing 737-800,Boeing 737,Boeing
+634,Korean Air Lines Co. Ltd.,Korean Air Cargo,Hanjin Group (Korean Air),Boeing 737-MAX9,Boeing 737,Boeing
+819,Korean Air Lines Co. Ltd.,Korean Air Cargo,Hanjin Group (Korean Air),Boeing 747-400ERF,Boeing 747,Boeing
+821,Korean Air Lines Co. Ltd.,Korean Air Cargo,Hanjin Group (Korean Air),Boeing 747-8F,Boeing 747,Boeing
+637,Korean Air Lines Co. Ltd.,Korean Air Cargo,Hanjin Group (Korean Air),Boeing 777-300ER,Boeing 777,Boeing
+627,Korean Air Lines Co. Ltd.,Korean Air Cargo,Hanjin Group (Korean Air),Boeing 777-F,Boeing 777,Boeing
+683,Korean Air Lines Co. Ltd.,Korean Air Cargo,Hanjin Group (Korean Air),Boeing 777-F,Boeing 777,Boeing
+889,Korean Air Lines Co. Ltd.,Korean Air Cargo,Hanjin Group (Korean Air),Boeing 787-9,Boeing 787,Boeing
+658,Korean Air Lines Co. Ltd.,Korean Air Cargo,Hanjin Group (Korean Air),Bombardier BD700,Bombardier Global Express,Bombardier
+750,Korean Air Lines Co. Ltd.,Korean Air Cargo,Hanjin Group (Korean Air),Gulfstream G650ER,Gulfstream G650,Gulfstream
+881,Korean Air Lines Co. Ltd.,Korean Air Cargo,Hanjin Group (Korean Air),Ilyushin Il-96,Ilyushin Il-96,Ilyushin
+698,TAM Linhas Aereas SA dba Latam Airlines Brasil,LATAM Cargo Brasil,LATAM Airlines Group,Airbus A319-100,Airbus A319,Airbus
+694,TAM Linhas Aereas SA dba Latam Airlines Brasil,LATAM Cargo Brasil,LATAM Airlines Group,Airbus A320-200,Airbus A320,Airbus
+699,TAM Linhas Aereas SA dba Latam Airlines Brasil,LATAM Cargo Brasil,LATAM Airlines Group,Airbus A321-200,Airbus A321,Airbus
+359,TAM Linhas Aereas SA dba Latam Airlines Brasil,LATAM Cargo Brasil,LATAM Airlines Group,Airbus A350-900,Airbus A350,Airbus
+626,TAM Linhas Aereas SA dba Latam Airlines Brasil,LATAM Cargo Brasil,LATAM Airlines Group,Boeing 767-300BCF,Boeing 767,Boeing
+637,TAM Linhas Aereas SA dba Latam Airlines Brasil,LATAM Cargo Brasil,LATAM Airlines Group,Boeing 777-300ER,Boeing 777,Boeing
+627,TAM Linhas Aereas SA dba Latam Airlines Brasil,LATAM Cargo Brasil,LATAM Airlines Group,Boeing 777-F,Boeing 777,Boeing
+887,TAM Linhas Aereas SA dba Latam Airlines Brasil,LATAM Cargo Brasil,LATAM Airlines Group,Boeing 787-8,Boeing 787,Boeing
+889,TAM Linhas Aereas SA dba Latam Airlines Brasil,LATAM Cargo Brasil,LATAM Airlines Group,Boeing 787-9,Boeing 787,Boeing
+698,Lan-Chile Airlines,LATAM Cargo Chile,LATAM Airlines Group,Airbus A319-100,Airbus A319,Airbus
+699,Lan-Chile Airlines,LATAM Cargo Chile,LATAM Airlines Group,Airbus A321-200,Airbus A321,Airbus
+696,Lan-Chile Airlines,LATAM Cargo Chile,LATAM Airlines Group,Airbus A330-200,Airbus A330,Airbus
+687,Lan-Chile Airlines,LATAM Cargo Chile,LATAM Airlines Group,Airbus A330-300,Airbus A330,Airbus
+819,Lan-Chile Airlines,LATAM Cargo Chile,LATAM Airlines Group,Boeing 747-400F,Boeing 747,Boeing
+626,Lan-Chile Airlines,LATAM Cargo Chile,LATAM Airlines Group,Boeing 767-300F,Boeing 767,Boeing
+627,Lan-Chile Airlines,LATAM Cargo Chile,LATAM Airlines Group,Boeing 777-F,Boeing 777,Boeing
+683,Lan-Chile Airlines,LATAM Cargo Chile,LATAM Airlines Group,Boeing 777-F,Boeing 777,Boeing
+887,Lan-Chile Airlines,LATAM Cargo Chile,LATAM Airlines Group,Boeing 787-8,Boeing 787,Boeing
+889,Lan-Chile Airlines,LATAM Cargo Chile,LATAM Airlines Group,Boeing 787-9,Boeing 787,Boeing
+740,Lan-Chile Airlines,LATAM Cargo Chile,LATAM Airlines Group,McDonnell Douglas MD-11F,McDonnell Douglas MD-11,McDonnell Douglas
+626,Lan Colombia,LATAM Cargo Colombia,LATAM Airlines Group,Boeing 767-300BCF,Boeing 767,Boeing
+740,Lan Colombia,LATAM Cargo Colombia,LATAM Airlines Group,McDonnell Douglas MD-11F,McDonnell Douglas MD-11,McDonnell Douglas
+698,Lan Ecuador,LATAM Cargo Ecuador,LATAM Airlines Group,Airbus A319-100,Airbus A319,Airbus
+694,Lan Ecuador,LATAM Cargo Ecuador,LATAM Airlines Group,Airbus A320-200,Airbus A320,Airbus
+696,Lan Ecuador,LATAM Cargo Ecuador,LATAM Airlines Group,Airbus A330-200,Airbus A330,Airbus
+626,Lan Ecuador,LATAM Cargo Ecuador,LATAM Airlines Group,Boeing 767-300BCF,Boeing 767,Boeing
+889,Lan Ecuador,LATAM Cargo Ecuador,LATAM Airlines Group,Boeing 787-9,Boeing 787,Boeing
+696,Lufthansa German Airlines,Lufthansa Cargo,Lufthansa Group,Airbus A330-200,Airbus A330,Airbus
+871,Lufthansa German Airlines,Lufthansa Cargo,Lufthansa Group,Airbus A340-300,Airbus A340,Airbus
+874,Lufthansa German Airlines,Lufthansa Cargo,Lufthansa Group,Airbus A340-600,Airbus A340,Airbus
+359,Lufthansa German Airlines,Lufthansa Cargo,Lufthansa Group,Airbus A350-900,Airbus A350,Airbus
+882,Lufthansa German Airlines,Lufthansa Cargo,Lufthansa Group,Airbus A380-800,Airbus A380,Airbus
+880,Lufthansa German Airlines,Lufthansa Cargo,Lufthansa Group,Antonov An-124F,Antonov An-124,Antonov
+819,Lufthansa German Airlines,Lufthansa Cargo,Lufthansa Group,Boeing 747-400,Boeing 747,Boeing
+822,Lufthansa German Airlines,Lufthansa Cargo,Lufthansa Group,Boeing 747-400,Boeing 747,Boeing
+821,Lufthansa German Airlines,Lufthansa Cargo,Lufthansa Group,Boeing 747-8i,Boeing 747,Boeing
+627,Lufthansa German Airlines,Lufthansa Cargo,Lufthansa Group,Boeing 777-F,Boeing 777,Boeing
+889,Lufthansa German Airlines,Lufthansa Cargo,Lufthansa Group,Boeing 787-9,Boeing 787,Boeing
+740,Lufthansa German Airlines,Lufthansa Cargo,Lufthansa Group,McDonnell Douglas MD-11F,McDonnell Douglas MD-11,McDonnell Douglas
+817,Martinair Holland N.V.,Martinair Cargo,Air France-KLM,Boeing 747-400BCF,Boeing 747,Boeing
+696,Aerotransportes Mas De Crga,MasAir,LATAM Airlines Group,Airbus A330-200P2F,Airbus A330,Airbus
+687,Aerotransportes Mas De Crga,MasAir,LATAM Airlines Group,Airbus A330-300P2F,Airbus A330,Airbus
+625,Aerotransportes Mas De Crga,MasAir,LATAM Airlines Group,Boeing 767-200BDSF,Boeing 767,Boeing
+626,Aerotransportes Mas De Crga,MasAir,LATAM Airlines Group,Boeing 767-300BDSF,Boeing 767,Boeing
+696,National Air Cargo Group Inc d/ba National Airlines,National Air Cargo,National Air Cargo Group,Airbus A330-200,Airbus A330,Airbus
+819,National Air Cargo Group Inc d/ba National Airlines,National Air Cargo,National Air Cargo Group,Boeing 747-400BCF,Boeing 747,Boeing
+622,National Air Cargo Group Inc d/ba National Airlines,National Air Cargo,National Air Cargo Group,Boeing 757-200,Boeing 757,Boeing
+820,Nippon Cargo Airlines,Nippon Cargo Airlines,Nippon Yusen (NCA),Boeing 747-400F,Boeing 747,Boeing
+821,Nippon Cargo Airlines,Nippon Cargo Airlines,Nippon Yusen (NCA),Boeing 747-8F,Boeing 747,Boeing
+620,Northern Air Cargo Inc.,Northern Air Cargo,Northern Air Services,Boeing 737-200F,Boeing 737,Boeing
+619,Northern Air Cargo Inc.,Northern Air Cargo,Northern Air Services,Boeing 737-300SF,Boeing 737,Boeing
+617,Northern Air Cargo Inc.,Northern Air Cargo,Northern Air Services,Boeing 737-400SF,Boeing 737,Boeing
+614,Northern Air Cargo Inc.,Northern Air Cargo,Amazon Prime Air,Boeing 737-800SF,Boeing 737,Boeing
+623,Northern Air Cargo Inc.,Northern Air Cargo,Northern Air Services,Boeing 757-300,Boeing 757,Boeing
+626,Northern Air Cargo Inc.,Northern Air Cargo,Amazon Prime Air,Boeing 767-300BCF,Boeing 767,Boeing
+819,Polar Air Cargo Airways,Polar Air Cargo,DHL Aviation,Boeing 747-400F,Boeing 747,Boeing
+821,Polar Air Cargo Airways,Polar Air Cargo,DHL Aviation,Boeing 747-8F,Boeing 747,Boeing
+625,Polar Air Cargo Airways,Polar Air Cargo,DHL Aviation,Boeing 767-200SF,Boeing 767,Boeing
+626,Polar Air Cargo Airways,Polar Air Cargo,DHL Aviation,Boeing 767-300BDSF,Boeing 767,Boeing
+627,Polar Air Cargo Airways,Polar Air Cargo,DHL Aviation,Boeing 777-F,Boeing 777,Boeing
+637,Qatar Airways (Q.C.S.C),Qatar Airways Cargo,Qatar Airways Group,Boeing 777-300ER,Boeing 777,Boeing
+627,Qatar Airways (Q.C.S.C),Qatar Airways Cargo,Qatar Airways Group,Boeing 777-F,Boeing 777,Boeing
+683,Qatar Airways (Q.C.S.C),Qatar Airways Cargo,Qatar Airways Group,Boeing 777-F,Boeing 777,Boeing
+627,Saudi Arabian Airlines Corp,Saudia Cargo,Saudi Arabian Airlines,Boeing 777-F,Boeing 777,Boeing
+817,Silk Way West Airlines,Silk Way West,Silk Way Group,Boeing 747-400F,Boeing 747,Boeing
+820,Silk Way West Airlines,Silk Way West,Silk Way Group,Boeing 747-400F,Boeing 747,Boeing
+359,Singapore Airlines Ltd.,Singapore Airlines Cargo,Singapore Airlines,Airbus A350-900,Airbus A350,Airbus
+882,Singapore Airlines Ltd.,Singapore Airlines Cargo,Singapore Airlines,Airbus A380-800,Airbus A380,Airbus
+820,Singapore Airlines Ltd.,Singapore Airlines Cargo,Singapore Airlines,Boeing 747-400F,Boeing 747,Boeing
+637,Singapore Airlines Ltd.,Singapore Airlines Cargo,Singapore Airlines,Boeing 777-300ER,Boeing 777,Boeing
+820,Sky Lease Cargo,Sky Lease Cargo,Sky Lease Cargo,Boeing 747-400ERF,Boeing 747,Boeing
+740,Sky Lease Cargo,Sky Lease Cargo,Sky Lease Cargo,McDonnell Douglas MD-11F,McDonnell Douglas MD-11,McDonnell Douglas
+617,Southern Air Inc.,Southern Air,DHL Aviation,Boeing 737-400SF,Boeing 737,Boeing
+614,Southern Air Inc.,Southern Air,DHL Aviation,Boeing 737-800BCF,Boeing 737,Boeing
+819,Southern Air Inc.,Southern Air,Atlas Air Worldwide Holdings,Boeing 747-400BDSF,Boeing 747,Boeing
+627,Southern Air Inc.,Southern Air,DHL Aviation,Boeing 777-F,Boeing 777,Boeing
+612,Sun Country Airlines d/b/a MN Airlines,Sun Country Airlines,Sun Country Airlines Holdings,Boeing 737-700,Boeing 737,Boeing
+614,Sun Country Airlines d/b/a MN Airlines,Sun Country Airlines,Amazon Prime Air,Boeing 737-800BCF,Boeing 737,Boeing
+696,Turk Hava Yollari A.O.,Turkish Cargo,Turkish Airlines,Airbus A330-200F,Airbus A330,Airbus
+359,Turk Hava Yollari A.O.,Turkish Cargo,Turkish Airlines,Airbus A350-900,Airbus A350,Airbus
+820,Turk Hava Yollari A.O.,Turkish Cargo,Turkish Airlines,Boeing 747-400ERF,Boeing 747,Boeing
+637,Turk Hava Yollari A.O.,Turkish Cargo,Turkish Airlines,Boeing 777-300ER,Boeing 777,Boeing
+683,Turk Hava Yollari A.O.,Turkish Cargo,Turkish Airlines,Boeing 777-F,Boeing 777,Boeing
+889,Turk Hava Yollari A.O.,Turkish Cargo,Turkish Airlines,Boeing 787-9,Boeing 787,Boeing
+691,United Parcel Service,UPS Airlines,United Parcel Service,Airbus A300-600RF,Airbus A300,Airbus
+819,United Parcel Service,UPS Airlines,United Parcel Service,Boeing 747-400F,Boeing 747,Boeing
+821,United Parcel Service,UPS Airlines,United Parcel Service,Boeing 747-8F,Boeing 747,Boeing
+622,United Parcel Service,UPS Airlines,United Parcel Service,Boeing 757-200PF,Boeing 757,Boeing
+626,United Parcel Service,UPS Airlines,United Parcel Service,Boeing 767-300F,Boeing 767,Boeing
+740,United Parcel Service,UPS Airlines,United Parcel Service,McDonnell Douglas MD-11F,McDonnell Douglas MD-11,McDonnell Douglas
+880,Volga-Dnepr Airlines,Volga-Dnepr Airlines,Volga-Dnepr Group,Antonov An-124F,Antonov An-124,Antonov
+877,Volga-Dnepr Airlines,Volga-Dnepr Airlines,Volga-Dnepr Group,Ilyushin Il-76(F),Ilyushin Il-76,Ilyushin
+820,Western Global,Western Global Airlines,Western Global Holdings,Boeing 747-400BDSF,Boeing 747,Boeing
+740,Western Global,Western Global Airlines,Western Global Holdings,McDonnell Douglas MD-11F,McDonnell Douglas MD-11,McDonnell Douglas
