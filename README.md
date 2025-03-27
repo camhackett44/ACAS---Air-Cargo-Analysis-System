@@ -52,20 +52,21 @@ Additional mapping and enrichment is performed through a custom `AIRCRAFT_VARIAN
 ### 🪟 Windows Users
 
 1. Download the repo as a ZIP and extract it  
-2. Double-click `launch.bat`
-3. BE SURE TO INSTALL PYTHON FROM THE LINK AS PROMPTED
-4. IMPORTANT: **DURING INSTALLATION, CHECK THE BOX "Add Python to PATH"**
-5. The dashboard will install everything and launch automatically in your browser
+2. Double-click `launch.bat`  
+3. The dashboard will install everything and launch automatically in your browser
 
 ### 🍎 macOS / Linux Users
 
-1. Download the repo as a ZIP and extract it  
-2. Open Terminal in this project folder  
-3. Run the following:
+1. Download the repo as a ZIP and extract it by double clicking
+2. Open Terminal, and navigate to the extracted folder
+3. In Terminal, type "cd " (with the space) and drag the extracted folder into the window
+4. Press enter
+5. On the new line of your Terminal, type the following and press enter:
 ```bash
 chmod +x setup.sh
 ./setup.sh
 ```
+6. The dashboard will install everything and launch automatically in your browser
 
 ---
 
